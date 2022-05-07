@@ -1,0 +1,7 @@
+TypeScript
+TypeScript es un lengujae de programación mantenido y desarrollado por Microsoft, es un complemente de JS.
+Es un lenguaje superconjunto de JS, es decir, un lengujae totalmente compatible con JS pero que ofrece nuevas funcionalidades. 
+Todo programa valido en JS es compatible con TS y viceversa
+Ofrece un tipado estático, es un sistema en la que la  verificación de los tipos se realiza durante la verificación, 
+mientras que los sistemas de tipado dinamciso son sistemas en los que la verificación se realiza durante la ejecución, como JS
+
